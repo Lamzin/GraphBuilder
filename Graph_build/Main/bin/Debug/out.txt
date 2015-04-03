@@ -1,0 +1,3836 @@
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 2.01202
+up = -10.012
+height = 12.024
+down - height = -10.012
+centreYYYY = 10
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 9.01202
+up = -3.01202
+height = 12.024
+down - height = -3.01202
+centreYYYY = 3
+
+function_number = 0
+down = 10.012
+up = -2.01202
+height = 12.024
+down - height = -2.01202
+centreYYYY = 2
+
+function_number = 0
+down = 11.012
+up = -1.01202
+height = 12.024
+down - height = -1.01202
+centreYYYY = 1
+
+function_number = 0
+down = 12.012
+up = -0.0120239
+height = 12.024
+down - height = -0.0120239
+centreYYYY = 0
+
+function_number = 0
+down = 13.012
+up = 0.987976
+height = 12.024
+down - height = 0.987976
+centreYYYY = -1
+
+function_number = 0
+down = 14.012
+up = 1.98798
+height = 12.024
+down - height = 1.98798
+centreYYYY = -2
+
+function_number = 0
+down = 15.012
+up = 2.98798
+height = 12.024
+down - height = 2.98798
+centreYYYY = -3
+
+function_number = 0
+down = 16.012
+up = 3.98798
+height = 12.024
+down - height = 3.98798
+centreYYYY = -4
+
+function_number = 0
+down = 17.012
+up = 4.98798
+height = 12.024
+down - height = 4.98798
+centreYYYY = -5
+
+function_number = 0
+down = 18.012
+up = 5.98798
+height = 12.024
+down - height = 5.98798
+centreYYYY = -6
+
+function_number = 0
+down = 19.012
+up = 6.98798
+height = 12.024
+down - height = 6.98798
+centreYYYY = -7
+
+function_number = 0
+down = 20.012
+up = 7.98798
+height = 12.024
+down - height = 7.98798
+centreYYYY = -8
+
+function_number = 0
+down = 21.012
+up = 8.98798
+height = 12.024
+down - height = 8.98798
+centreYYYY = -9
+
+function_number = 0
+down = 22.012
+up = 9.98798
+height = 12.024
+down - height = 9.98798
+centreYYYY = -10
+
+function_number = 0
+down = 23.012
+up = 10.988
+height = 12.024
+down - height = 10.988
+centreYYYY = -11
+
+function_number = 0
+down = 23.012
+up = 10.988
+height = 12.024
+down - height = 10.988
+centreYYYY = -11
+
+function_number = 0
+down = 23.012
+up = 10.988
+height = 12.024
+down - height = 10.988
+centreYYYY = -11
+
+function_number = 0
+down = 23.012
+up = 10.988
+height = 12.024
+down - height = 10.988
+centreYYYY = -11
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 2.01202
+up = -10.012
+height = 12.024
+down - height = -10.012
+centreYYYY = 10
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 9.01202
+up = -3.01202
+height = 12.024
+down - height = -3.01202
+centreYYYY = 3
+
+function_number = 0
+down = 10.012
+up = -2.01202
+height = 12.024
+down - height = -2.01202
+centreYYYY = 2
+
+function_number = 0
+down = 11.012
+up = -1.01202
+height = 12.024
+down - height = -1.01202
+centreYYYY = 1
+
+function_number = 0
+down = 12.012
+up = -0.0120239
+height = 12.024
+down - height = -0.0120239
+centreYYYY = 0
+
+function_number = 0
+down = 13.012
+up = 0.987976
+height = 12.024
+down - height = 0.987976
+centreYYYY = -1
+
+function_number = 0
+down = 14.012
+up = 1.98798
+height = 12.024
+down - height = 1.98798
+centreYYYY = -2
+
+function_number = 0
+down = 14.012
+up = 1.98798
+height = 12.024
+down - height = 1.98798
+centreYYYY = -2
+
+function_number = 0
+down = 13.012
+up = 0.987976
+height = 12.024
+down - height = 0.987976
+centreYYYY = -1
+
+function_number = 0
+down = 13.012
+up = 0.987976
+height = 12.024
+down - height = 0.987976
+centreYYYY = -1
+
+function_number = 0
+down = 13.012
+up = 0.987976
+height = 12.024
+down - height = 0.987976
+centreYYYY = -1
+
+function_number = 0
+down = 12.012
+up = -0.0120239
+height = 12.024
+down - height = -0.0120239
+centreYYYY = 0
+
+function_number = 0
+down = 11.012
+up = -1.01202
+height = 12.024
+down - height = -1.01202
+centreYYYY = 1
+
+function_number = 0
+down = 10.012
+up = -2.01202
+height = 12.024
+down - height = -2.01202
+centreYYYY = 2
+
+function_number = 0
+down = 9.01202
+up = -3.01202
+height = 12.024
+down - height = -3.01202
+centreYYYY = 3
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 2.01202
+up = -10.012
+height = 12.024
+down - height = -10.012
+centreYYYY = 10
+
+function_number = 0
+down = 1.01202
+up = -11.012
+height = 12.024
+down - height = -11.012
+centreYYYY = 11
+
+function_number = 0
+down = 1.01202
+up = -11.012
+height = 12.024
+down - height = -11.012
+centreYYYY = 11
+
+function_number = 0
+down = 0.0120239
+up = -12.012
+height = 12.024
+down - height = -12.012
+centreYYYY = 12
+
+function_number = 0
+down = 0.0120239
+up = -12.012
+height = 12.024
+down - height = -12.012
+centreYYYY = 12
+
+function_number = 0
+down = 0.0120239
+up = -12.012
+height = 12.024
+down - height = -12.012
+centreYYYY = 12
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 2.01202
+up = -10.012
+height = 12.024
+down - height = -10.012
+centreYYYY = 10
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 3.01202
+up = -9.01202
+height = 12.024
+down - height = -9.01202
+centreYYYY = 9
+
+function_number = 0
+down = 2.01202
+up = -10.012
+height = 12.024
+down - height = -10.012
+centreYYYY = 10
+
+function_number = 0
+down = 1.01202
+up = -11.012
+height = 12.024
+down - height = -11.012
+centreYYYY = 11
+
+function_number = 0
+down = 0.0120239
+up = -12.012
+height = 12.024
+down - height = -12.012
+centreYYYY = 12
+
+function_number = 0
+down = -0.987976
+up = -13.012
+height = 12.024
+down - height = -13.012
+centreYYYY = 13
+
+function_number = 0
+down = -1.98798
+up = -14.012
+height = 12.024
+down - height = -14.012
+centreYYYY = 14
+
+function_number = 0
+down = -2.98798
+up = -15.012
+height = 12.024
+down - height = -15.012
+centreYYYY = 15
+
+function_number = 0
+down = -3.98798
+up = -16.012
+height = 12.024
+down - height = -16.012
+centreYYYY = 16
+
+function_number = 0
+down = -3.98798
+up = -16.012
+height = 12.024
+down - height = -16.012
+centreYYYY = 16
+
+function_number = 0
+down = -3.98798
+up = -16.012
+height = 12.024
+down - height = -16.012
+centreYYYY = 16
+
+function_number = 0
+down = -2.98798
+up = -15.012
+height = 12.024
+down - height = -15.012
+centreYYYY = 15
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.61323
+up = -6.61323
+height = 13.2265
+down - height = -6.61323
+centreYYYY = 6
+
+function_number = 0
+down = 7.21443
+up = -7.21443
+height = 14.4289
+down - height = -7.21443
+centreYYYY = 7
+
+function_number = 0
+down = 7.81563
+up = -7.81563
+height = 15.6313
+down - height = -7.81563
+centreYYYY = 7
+
+function_number = 0
+down = 8.41683
+up = -8.41683
+height = 16.8337
+down - height = -8.41683
+centreYYYY = 8
+
+function_number = 0
+down = 9.01804
+up = -9.01804
+height = 18.0361
+down - height = -9.01804
+centreYYYY = 9
+
+function_number = 0
+down = 9.61924
+up = -9.61924
+height = 19.2385
+down - height = -9.61924
+centreYYYY = 9
+
+function_number = 0
+down = 8.61924
+up = -10.6192
+height = 19.2385
+down - height = -10.6192
+centreYYYY = 10
+
+function_number = 0
+down = 7.61924
+up = -11.6192
+height = 19.2385
+down - height = -11.6192
+centreYYYY = 11
+
+function_number = 0
+down = 6.61924
+up = -12.6192
+height = 19.2385
+down - height = -12.6192
+centreYYYY = 12
+
+function_number = 0
+down = 5.61924
+up = -13.6192
+height = 19.2385
+down - height = -13.6192
+centreYYYY = 13
+
+function_number = 0
+down = 4.61924
+up = -14.6192
+height = 19.2385
+down - height = -14.6192
+centreYYYY = 14
+
+function_number = 0
+down = 3.61924
+up = -15.6192
+height = 19.2385
+down - height = -15.6192
+centreYYYY = 15
+
+function_number = 0
+down = 2.61924
+up = -16.6192
+height = 19.2385
+down - height = -16.6192
+centreYYYY = 16
+
+function_number = 0
+down = 1.61924
+up = -17.6192
+height = 19.2385
+down - height = -17.6192
+centreYYYY = 17
+
+function_number = 0
+down = 1.61924
+up = -17.6192
+height = 19.2385
+down - height = -17.6192
+centreYYYY = 17
+
+function_number = 0
+down = 1.61924
+up = -17.6192
+height = 19.2385
+down - height = -17.6192
+centreYYYY = 17
+
+function_number = 0
+down = 1.61924
+up = -17.6192
+height = 19.2385
+down - height = -17.6192
+centreYYYY = 17
+
+function_number = 0
+down = 1.61924
+up = -17.6192
+height = 19.2385
+down - height = -17.6192
+centreYYYY = 17
+
+function_number = 0
+down = 1.61924
+up = -17.6192
+height = 19.2385
+down - height = -17.6192
+centreYYYY = 17
+
+function_number = 0
+down = 2.61924
+up = -16.6192
+height = 19.2385
+down - height = -16.6192
+centreYYYY = 16
+
+function_number = 0
+down = 2.61924
+up = -16.6192
+height = 19.2385
+down - height = -16.6192
+centreYYYY = 16
+
+function_number = 0
+down = 2.61924
+up = -16.6192
+height = 19.2385
+down - height = -16.6192
+centreYYYY = 16
+
+function_number = 0
+down = 3.61924
+up = -15.6192
+height = 19.2385
+down - height = -15.6192
+centreYYYY = 15
+
+function_number = 0
+down = 3.61924
+up = -15.6192
+height = 19.2385
+down - height = -15.6192
+centreYYYY = 15
+
+function_number = 0
+down = 4.61924
+up = -14.6192
+height = 19.2385
+down - height = -14.6192
+centreYYYY = 14
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.61323
+up = -6.61323
+height = 13.2265
+down - height = -6.61323
+centreYYYY = 6
+
+function_number = 0
+down = 7.21443
+up = -7.21443
+height = 14.4289
+down - height = -7.21443
+centreYYYY = 7
+
+function_number = 0
+down = 7.21443
+up = -7.21443
+height = 14.4289
+down - height = -7.21443
+centreYYYY = 7
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.94841
+up = -5.94841
+height = 11.8968
+down - height = -5.94841
+centreYYYY = 5
+
+function_number = 0
+down = 5.94841
+up = -5.94841
+height = 11.8968
+down - height = -5.94841
+centreYYYY = 5
+
+function_number = 0
+down = 6.54325
+up = -6.54325
+height = 13.0865
+down - height = -6.54325
+centreYYYY = 6
+
+function_number = 1
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.41082
+up = -5.41082
+height = 10.8216
+down - height = -5.41082
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.94841
+up = -5.94841
+height = 11.8968
+down - height = -5.94841
+centreYYYY = 5
+
+function_number = 0
+down = 5.94841
+up = -5.94841
+height = 11.8968
+down - height = -5.94841
+centreYYYY = 5
+
+function_number = 0
+down = 5.35357
+up = -5.35357
+height = 10.7071
+down - height = -5.35357
+centreYYYY = 5
+
+function_number = 0
+down = 4.75873
+up = -4.75873
+height = 9.51745
+down - height = -4.75873
+centreYYYY = 4
+
+function_number = 0
+down = 4.16388
+up = -4.16388
+height = 8.32777
+down - height = -4.16388
+centreYYYY = 4
+
+function_number = 0
+down = 3.56904
+up = -3.56904
+height = 7.13809
+down - height = -3.56904
+centreYYYY = 3
+
+function_number = 1
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 15.012
+up = 2.98798
+height = 12.024
+down - height = 2.98798
+centreYYYY = -3
+
+function_number = 1
+down = 15.012
+up = 2.98798
+height = 12.024
+down - height = 2.98798
+centreYYYY = -3
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 5.41082
+up = -5.41082
+height = 10.8216
+down - height = -5.41082
+centreYYYY = 5
+
+function_number = 1
+down = 4.80962
+up = -4.80962
+height = 9.61924
+down - height = -4.80962
+centreYYYY = 4
+
+function_number = 1
+down = 4.20842
+up = -4.20842
+height = 8.41683
+down - height = -4.20842
+centreYYYY = 4
+
+function_number = 1
+down = 3.60721
+up = -3.60721
+height = 7.21443
+down - height = -3.60721
+centreYYYY = 3
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 1
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6
+up = -6
+height = 12
+down - height = -6
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 1
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 1
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 1
+down = 7.18505
+up = -7.18505
+height = 14.3701
+down - height = -7.18505
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 27.8571
+up = -27.8571
+height = 55.7143
+down - height = -27.8571
+centreYYYY = 27
+
+function_number = 1
+down = 27.8571
+up = -27.8571
+height = 55.7143
+down - height = -27.8571
+centreYYYY = 27
+
+function_number = 1
+down = 27.8571
+up = -27.8571
+height = 55.7143
+down - height = -27.8571
+centreYYYY = 27
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 0
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 0
+down = 10.5319
+up = -2.53186
+height = 13.0637
+down - height = -2.53186
+centreYYYY = 2
+
+function_number = 0
+down = 10.5319
+up = -2.53186
+height = 13.0637
+down - height = -2.53186
+centreYYYY = 2
+
+function_number = 0
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 0
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 0
+down = 5.87868
+up = -5.87868
+height = 11.7574
+down - height = -5.87868
+centreYYYY = 5
+
+function_number = 0
+down = 5.22549
+up = -5.22549
+height = 10.451
+down - height = -5.22549
+centreYYYY = 5
+
+function_number = 0
+down = 5.87868
+up = -5.87868
+height = 11.7574
+down - height = -5.87868
+centreYYYY = 5
+
+function_number = 0
+down = 6.87868
+up = -4.87868
+height = 11.7574
+down - height = -4.87868
+centreYYYY = 4
+
+function_number = 0
+down = 7.87868
+up = -3.87868
+height = 11.7574
+down - height = -3.87868
+centreYYYY = 3
+
+function_number = 0
+down = 6.87868
+up = -4.87868
+height = 11.7574
+down - height = -4.87868
+centreYYYY = 4
+
+function_number = 0
+down = 5.87868
+up = -5.87868
+height = 11.7574
+down - height = -5.87868
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 0
+down = 6.53186
+up = -6.53186
+height = 13.0637
+down - height = -6.53186
+centreYYYY = 6
+
+function_number = 0
+down = 7.18505
+up = -7.18505
+height = 14.3701
+down - height = -7.18505
+centreYYYY = 7
+
+function_number = 0
+down = 7.18505
+up = -7.18505
+height = 14.3701
+down - height = -7.18505
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 9.01202
+up = -3.01202
+height = 12.024
+down - height = -3.01202
+centreYYYY = 3
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.61323
+up = -6.61323
+height = 13.2265
+down - height = -6.61323
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.61323
+up = -6.61323
+height = 13.2265
+down - height = -6.61323
+centreYYYY = 6
+
+function_number = 0
+down = 7.21443
+up = -7.21443
+height = 14.4289
+down - height = -7.21443
+centreYYYY = 7
+
+function_number = 0
+down = 7.81563
+up = -7.81563
+height = 15.6313
+down - height = -7.81563
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 4.36874
+up = -4.36874
+height = 8.73747
+down - height = -4.36874
+centreYYYY = 4
+
+function_number = 0
+down = 4.36874
+up = -4.36874
+height = 8.73747
+down - height = -4.36874
+centreYYYY = 4
+
+function_number = 0
+down = 5.42084
+up = -5.42084
+height = 10.8417
+down - height = -5.42084
+centreYYYY = 5
+
+function_number = 0
+down = 5.42084
+up = -5.42084
+height = 10.8417
+down - height = -5.42084
+centreYYYY = 5
+
+function_number = 0
+down = 5.42084
+up = -5.42084
+height = 10.8417
+down - height = -5.42084
+centreYYYY = 5
+
+function_number = 0
+down = 5.47094
+up = -5.47094
+height = 10.9419
+down - height = -5.47094
+centreYYYY = 5
+
+function_number = 0
+down = 5.47094
+up = -5.47094
+height = 10.9419
+down - height = -5.47094
+centreYYYY = 5
+
+function_number = 0
+down = 5.47094
+up = -5.47094
+height = 10.9419
+down - height = -5.47094
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 9.01202
+up = -3.01202
+height = 12.024
+down - height = -3.01202
+centreYYYY = 3
+
+function_number = 0
+down = 8.01202
+up = -4.01202
+height = 12.024
+down - height = -4.01202
+centreYYYY = 4
+
+function_number = 0
+down = 7.01202
+up = -5.01202
+height = 12.024
+down - height = -5.01202
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.01202
+up = -7.01202
+height = 12.024
+down - height = -7.01202
+centreYYYY = 7
+
+function_number = 0
+down = 4.01202
+up = -8.01202
+height = 12.024
+down - height = -8.01202
+centreYYYY = 8
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 5.94841
+up = -5.94841
+height = 11.8968
+down - height = -5.94841
+centreYYYY = 5
+
+function_number = 1
+down = 5.94841
+up = -5.94841
+height = 11.8968
+down - height = -5.94841
+centreYYYY = 5
+
+function_number = 1
+down = 4.94841
+up = -6.94841
+height = 11.8968
+down - height = -6.94841
+centreYYYY = 6
+
+function_number = 1
+down = 4.94841
+up = -6.94841
+height = 11.8968
+down - height = -6.94841
+centreYYYY = 6
+
+function_number = 1
+down = 6.54325
+up = -6.54325
+height = 13.0865
+down - height = -6.54325
+centreYYYY = 6
+
+function_number = 1
+down = 7.13809
+up = -7.13809
+height = 14.2762
+down - height = -7.13809
+centreYYYY = 7
+
+function_number = 1
+down = 7.73293
+up = -7.73293
+height = 15.4659
+down - height = -7.73293
+centreYYYY = 7
+
+function_number = 1
+down = 7.13809
+up = -7.13809
+height = 14.2762
+down - height = -7.13809
+centreYYYY = 7
+
+function_number = 1
+down = 6.54325
+up = -6.54325
+height = 13.0865
+down - height = -6.54325
+centreYYYY = 6
+
+function_number = 1
+down = 7.13809
+up = -7.13809
+height = 14.2762
+down - height = -7.13809
+centreYYYY = 7
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 0
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 0
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 0
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 0
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 0
+down = 6.01202
+up = -6.01202
+height = 12.024
+down - height = -6.01202
+centreYYYY = 6
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5
+
+function_number = 1
+down = 5.34045
+up = -5.34045
+height = 10.6809
+down - height = -5.34045
+centreYYYY = 5

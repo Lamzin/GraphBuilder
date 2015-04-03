@@ -1,0 +1,9 @@
+#include "QuickParser\"
+
+
+namespace QuickMathParser
+{
+
+
+
+}

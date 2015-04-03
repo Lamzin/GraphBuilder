@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Graph Builder">
+      <UniqueIdentifier>{ee5cbd73-09bc-46dd-8010-a227ba279ec8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser">
+      <UniqueIdentifier>{4ee43604-4d20-488b-97e8-7f9752f5ad60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Builder\Header Files">
+      <UniqueIdentifier>{f484f2d4-64db-4e5e-bd75-38ccdf68a62f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\Header Files">
+      <UniqueIdentifier>{3cc4f3f3-02a6-49f3-ae50-4c10b15b1022}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph Builder\Resource Files">
+      <UniqueIdentifier>{41707eca-3473-40e3-8448-a530d1b96cc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\Resource Files">
+      <UniqueIdentifier>{12e54f0e-7c78-46d3-abfa-657eff0d7d66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parser\Resource Files\Calculator">
+      <UniqueIdentifier>{d44d0bce-b612-47e3-949b-e74502be86a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{1e2829c8-a1aa-445b-bec0-da89cdfadb8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\Header Files">
+      <UniqueIdentifier>{2f36bdb1-7ad0-4f90-827f-87419da58c4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation\Resource Files">
+      <UniqueIdentifier>{075c75eb-59af-47dd-b8e7-cf7053b934f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuickParser">
+      <UniqueIdentifier>{e764d379-29df-4d2a-8e6e-472ea3e5e5c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuickParser\Header Files">
+      <UniqueIdentifier>{9ccaf2d9-371a-4f13-bce5-dee946d969bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuickParser\Resource Files">
+      <UniqueIdentifier>{a250b7d5-75b2-49fb-982b-5e368a7faf62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Graph_build\Graph Builder\GraphProperties.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Graph Builder\MathFunction.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Graph Builder\Render.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Parser\Parser.h">
+      <Filter>Parser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Graph Builder\Event.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Graph Builder\Function.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Animation\Animation.h">
+      <Filter>Animation\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Graph Builder\Rectangles.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickParser\QParser.h">
+      <Filter>QuickParser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickParser\PointerFunction.h">
+      <Filter>QuickParser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickParser\GraphParser.h">
+      <Filter>QuickParser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickParser\QHeader.h">
+      <Filter>QuickParser\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Graph Builder\types.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_build\Graph Builder\header.h">
+      <Filter>Graph Builder\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Graph_build\Graph Builder\GraphProperties.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\MathFunction.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\Render.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\Parser.cpp">
+      <Filter>Parser\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorTangens.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorSubstraction.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorSpecialSqrt.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorSinus.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorPowering.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorMultiplication.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorModule.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorLogarithmNatural.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorLogarithmDecimal.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorIntegralPart.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorFractionPart.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorDivision.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorCotangens.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorCosinus.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorArctangens.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorArcsinus.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorArccotangens.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorArccosinus.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorAddition.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\Function.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\Windows_Render.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\WriteText_Render.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Animation\FractionalArgument.cpp">
+      <Filter>Animation\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Animation\FractionFunction.cpp">
+      <Filter>Animation\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Animation\IntegralArgument.cpp">
+      <Filter>Animation\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Animation\IntegralFunction.cpp">
+      <Filter>Animation\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\DrawGraph.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorConstPI.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Parser\CalculatorConstE.cpp">
+      <Filter>Parser\Resource Files\Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickParser\QParser.cpp">
+      <Filter>QuickParser\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickParser\QCalculator.cpp">
+      <Filter>QuickParser\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickParser\makeGraph.cpp">
+      <Filter>QuickParser\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickParser\funcPtrINIT.cpp">
+      <Filter>QuickParser\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickParser\PointerFunction.cpp">
+      <Filter>QuickParser\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\RenderEquation.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph_build\Graph Builder\Color.cpp">
+      <Filter>Graph Builder\Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd">
+      <Filter>Parser\Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
